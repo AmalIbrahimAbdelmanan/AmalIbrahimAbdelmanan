@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AmalIbrahimAbdelmanan
 - 👀 I’m interested in Game Development and AI
-- 🌱 I’m currently learning the basics
-- 📫 How to reach me amalibrah09@gmail.com
+- 🌱 I’m currently learning the basics of Programming
+- 📫 How to reach me : amalibrah09@gmail.com
